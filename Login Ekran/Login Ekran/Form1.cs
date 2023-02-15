@@ -104,7 +104,7 @@ namespace Login_Ekran
 
         private void password_Click(object sender, EventArgs e)
         {
-
+            //yenileme 2
         }
 
         private void label6_Click(object sender, EventArgs e)
