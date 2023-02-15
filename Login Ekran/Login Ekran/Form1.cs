@@ -100,6 +100,7 @@ namespace Login_Ekran
             listBox1.SelectedIndex = 0;
             listBox1.Items.Add(sifretxtbox.Text);
             listBox1.SelectedIndex = 1;
+          //yenileme3        
         }
 
         private void password_Click(object sender, EventArgs e)
