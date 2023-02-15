@@ -1,0 +1,17 @@
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\bin\Debug\net6.0-windows\Login Ekran.exe
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\bin\Debug\net6.0-windows\Login Ekran.deps.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\bin\Debug\net6.0-windows\Login Ekran.runtimeconfig.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\bin\Debug\net6.0-windows\Login Ekran.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\bin\Debug\net6.0-windows\Login Ekran.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.csproj.AssemblyReference.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login_Ekran.Form1.resources
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.csproj.GenerateResource.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.AssemblyInfoInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.AssemblyInfo.cs
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.csproj.CoreCompileInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\refint\Login Ekran.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\Login Ekran.genruntimeconfig.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Login Ekran\Login Ekran\obj\Debug\net6.0-windows\ref\Login Ekran.dll
